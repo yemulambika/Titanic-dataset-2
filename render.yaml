@@ -16,4 +16,4 @@ services:
     startCommand: streamlit run src/streamlit_app.py --server.port $PORT --server.address 0.0.0.0
     envVars:
       - key: BACKEND_URL
-        value: https://titanic-backend.onrender.com
+        value: https://titanic-dataset-2.onrender.com

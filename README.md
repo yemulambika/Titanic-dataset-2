@@ -53,7 +53,7 @@ The frontend reads the backend URL from the `BACKEND_URL` environment variable.
 3. For the Streamlit service, set `BACKEND_URL` to the backend service URL, for example:
 
 ```text
-https://titanic-backend.onrender.com
+https://titanic-dataset-2.onrender.com
 ```
 
 ## Training
